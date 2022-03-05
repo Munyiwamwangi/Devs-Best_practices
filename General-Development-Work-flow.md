@@ -1,4 +1,4 @@
-## How to deliver a feature ( Make sure to follow the [Best practices conventions](https://github.com/adrian-kenya-limited/Dev-team-bestpractices/wiki/Git-naming-and-best-practices))
+## How to deliver a feature
 
  * Start your task on Pivotal tracker board
  * Create your new branch from develop
